@@ -1,2 +1,4 @@
 *.synth
 *.vcd
+HW4/task.v
+HW4/test.v
